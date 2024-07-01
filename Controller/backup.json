@@ -1,0 +1,44 @@
+{
+    "fullName": "John Doe",
+    "phoneNumber": "1234567890",
+    "email": "john.doe@example.com",
+    "cart": [
+        {
+            "product": "666c6510b3fcb5c89c217d77", // Replace with a valid product ID
+            "price": 100,
+            "discountAmount": 10,
+            "count": 4,
+            "selectedvariant": [
+                {
+                    "name": "default",
+                    "options": {
+                        "name": "default"
+                    }
+                }
+            ]
+        },
+        {
+            "product": "666c6510b3fcb5c89c217d7b", // Replace with a valid product ID
+            "price": 200,
+            "discountAmount": 20,
+            "count": 4,
+            "selectedvariant": [
+                {
+                    "name": "default",
+                    "options": {
+                        "name": "default"
+                    }
+                }
+            ]
+        }
+    ],
+    "price": 1250, // Total price before delivery charge and promo discount
+    "totalPrice": 290, // Total price after adding delivery charge and subtracting promo discount
+    "deliveryCharge": 100,
+    "promoCode": "SUMMER21",
+    "promoDiscount": 50,
+    "address": "123 Main Street, Anytown, USA",
+    "landmark": "Near Central Park",
+    "paymentMethod": "CashOnDelivery",
+    "esewaTransactionID": null // Only required if payment method is 'Esewa'
+}

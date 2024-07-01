@@ -1,0 +1,20 @@
+Developer Guide for SDK Version 3 - https://docs.aws.amazon.com/sdk-for-javascript/v3/developer-guide/javascript_ses_code_examples.html
+Modular packages in AWS SDK for JavaScript - https://aws.amazon.com/blogs/developer/modular-packages-in-aws-sdk-for-javascript/
+AWS Management Console - https://aws.amazon.com/console/
+Amazon SES - https://aws.amazon.com/ses/
+GitHub Repo - https://github.com/kalyansaxena/nodejs-aws-ses-tutorial
+
+## V3
+npm i @aws-sdk/client-s3
+
+## Production SES
+1. Verify Domain
+https://www.youtube.com/watch?v=_DFGCVwshsU
+2. Production 
+https://www.youtube.com/watch?v=WYEEZPkv750
+
+## MUST
+### Privacy Policies
+### Terms of Use
+### Contact Form
+
